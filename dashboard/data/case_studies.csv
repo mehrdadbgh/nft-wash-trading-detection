@@ -1,0 +1,13 @@
+wallet,n_pairs,total_pair_trades,total_pair_volume_eth,pct_own_max,intensity_max,funder_tag,avg_price_per_trade,detectors_fired,confidence,structure_type,case_name
+0x1407930f5ff83ff94532885557b334c74b3afc42,4,517,93373,37,27,,180.605415860735,2,medium,mesh_cluster,Mesh cluster member
+0x18a4489a739ac9835da14e006b35d65040e53a4a,2,113,377808,57,39,luca.eth,3343.433628318584,5,high,ring_member,Stacked operator
+0x26c01ab4efffcf017fe0392fbdf080dcb8252d80,3,271,47297,36,14,,174.52767527675277,2,medium,mesh_cluster,Mesh cluster member
+0x2edadfb25586b1e4d6623c7021e76a2fa595cdec,4,500,89693,36,26,,179.386,2,medium,mesh_cluster,Mesh cluster member
+0x8ce0d9060263b1b5ad3eff2e1e21736b5ef36936,1,265,161094,100,265,,607.9018867924528,3,high,bilateral_mill,Top attributed A
+0xa53496b67eec749ac41b4666d63228a0fb0409cf,1,1541,636464,100,514,,413.020116807268,2,medium,bilateral_mill,Twins A
+0xb00b51bf185c7da1e2b61a9d53df7bc863699274,1,25,1005,100,25,usem.eth,40.2,3,high,concentrated_pair,b00b pair A
+0xb00b5b48b26da7389888e01fa1eb2bbda2997d01,1,25,1005,96,25,usem.eth,40.2,3,high,concentrated_pair,b00b pair B
+0xc32575be004af0843d995d6139bbeb9f8085d970,3,214,43603,40,12,,203.75233644859813,2,medium,mesh_cluster,Mesh cluster member
+0xcaee6d433f36031b87d6e3c06395131a823314f3,4,494,90878,38,27,,183.96356275303643,2,medium,mesh_cluster,Mesh cluster member
+0xd73e0def01246b650d8a367a4b209be59c8be8ab,1,1541,636464,100,514,,413.020116807268,2,medium,bilateral_mill,Twins B
+0xea19b97a1523ba7796c3c9075b243e14d3995474,1,265,161094,100,265,,607.9018867924528,3,high,bilateral_mill,Top attributed B
